@@ -8,4 +8,4 @@ Files:
 * _main.py_: The main code of the experiment.
 
 ## Acknowledgments
-The list of primes I used was extracted from files downloaded from [https://primes.utm.edu/lists/small/millions/]https://primes.utm.edu/lists/small/millions/. I wish to thank Dr. [https://www.utm.edu/staff/caldwell/]Chris K. Caldwell for maintaining the repository with files with list of prime numbers.
+The list of primes I used was extracted from files downloaded from [https://primes.utm.edu/lists/small/millions/]https://primes.utm.edu/lists/small/millions/. I wish to thank Dr. [https://www.utm.edu/staff/caldwell/](Chris K. Caldwell) for maintaining the repository with files with list of prime numbers.
