@@ -10,7 +10,7 @@ DATA_PATH = './data/primes%s.txt'
 
 STORAGE_PATH = './results/iter-%s.eps'
 
-ITEARATIONS = 10000
+ITEARATIONS = 100000
 NUBERS_TO_KEEP_MIN = 10
 NUBERS_TO_KEEP_MAX = 1000
 
