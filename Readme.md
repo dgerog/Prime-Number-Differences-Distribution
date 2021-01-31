@@ -5,7 +5,9 @@ What is a remarkable observation is that for datasets with more than **100 conse
 
 Files:
 * _functions.py_: Utility functions I used in my experiments.
-* _main.py_: The main code of the experiment.
+* _main1.py_: The main code of the experiment 1 (random group of consecutive primes).
+* _main2.py_: The main code of the experiment 2 (consecutive groups of consecutive primes).
+* _main3.py_: The main code of the experiment 3 (start from a prime and progressively check concecutive numbers).
 
 ## Acknowledgments
 The list of primes I used was extracted from files downloaded from [https://primes.utm.edu/lists/small/millions/]https://primes.utm.edu/lists/small/millions/. I wish to thank Dr. [https://www.utm.edu/staff/caldwell/] Chris K. Caldwell for maintaining the repository with files with list of prime numbers.
